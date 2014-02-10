@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Telegram Name="SL_PPS_REQUEST" ID="29103">
+  <HEADER>
+    <MessageLength>100</MessageLength>
+    <Command>29103</Command>
+    <MessageCount>2</MessageCount>
+    <UnitNo>97</UnitNo>
+  </HEADER>
+  <TELEGRAM_REQUESTED>84</TELEGRAM_REQUESTED>
+  <L2_PIECE_ID>jhbggawrqnoivivi</L2_PIECE_ID>
+  <PPS_PIECE_ID>plcssqljjirfwogniofhevspbdbcmabs</PPS_PIECE_ID>
+  <SPARE>jubiuebpsotvgqrbgawgdneqqkqopiujgvtbnupd</SPARE>
+</Telegram>

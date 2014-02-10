@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Telegram Name="SL_BOOK_IN" ID="29120">
+  <HEADER>
+    <MessageLength>150</MessageLength>
+    <Command>29120</Command>
+    <MessageCount>47</MessageCount>
+    <UnitNo>0</UnitNo>
+  </HEADER>
+  <L2_PIECE_ID>12345677</L2_PIECE_ID>
+  <PPS_PIECE_ID>L2232323</PPS_PIECE_ID>
+  <TREATMENT_NO>123</TREATMENT_NO>
+  <TRACKING_ZONE>0</TRACKING_ZONE>
+  <POSITION_X>0</POSITION_X>
+  <POSITION_Y>0</POSITION_Y>
+  <POSITION_Z>0</POSITION_Z>
+  <DIMENSION_X>0</DIMENSION_X>
+  <DIMENSION_Y>0</DIMENSION_Y>
+  <DIMENSION_Z>0</DIMENSION_Z>
+  <ORIENTATION>0</ORIENTATION>
+  <SPARE_1>0</SPARE_1>
+  <BOOK_IN_TIME IsDaylightSavingTime="false">0001-01-01T00:00:00</BOOK_IN_TIME>
+  <SPARE></SPARE>
+</Telegram>

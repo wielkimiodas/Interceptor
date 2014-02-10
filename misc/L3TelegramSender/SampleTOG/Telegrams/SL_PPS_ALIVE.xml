@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Telegram Name="SL_PPS_ALIVE" ID="29101">
+  <HEADER>
+    <MessageLength>0</MessageLength>
+    <Command>0</Command>
+    <MessageCount>0</MessageCount>
+    <UnitNo>0</UnitNo>
+  </HEADER>
+  <LEVEL2_STATUS>0</LEVEL2_STATUS>
+  <SPARE></SPARE>
+</Telegram>
